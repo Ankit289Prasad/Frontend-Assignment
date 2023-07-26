@@ -19,6 +19,9 @@ A web application to display trade statistics (Open, High, Low, Close, Volume) o
 5. Navigate to the "client" folder and install the required dependencies using `npm install`.
 6. Run the React app using `npm start`. The app will be accessible at http://localhost:3000.
 
+   ![image](https://github.com/Ankit289Prasad/Frontend-Assignment/assets/41874710/be0af2a5-295f-4ae0-95c7-6a18f1335910)
+
+
 ## Usage
 
 1. Enter the stock symbol (e.g., AAPL, GOOGL) in the "Stock Symbol" input field.
