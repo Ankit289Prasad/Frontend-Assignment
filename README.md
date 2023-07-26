@@ -23,7 +23,7 @@ A web application to display trade statistics (Open, High, Low, Close, Volume) o
 ## Usage
 
 1. Enter the stock symbol (e.g., AAPL, GOOGL) in the "Stock Symbol" input field.
-2. Select the date for which you want to fetch the trade statistics in the "Date" input field. Note that the date cannot be set to today or a future date.
+2. Select the date for which you want to fetch the trade statistics in the "Date" input field. Note that the date cannot be set to a future date.
 3. Click the "Fetch Data" button to retrieve the trade statistics for the specified stock and date.
 4. If you try to fetch the same data (same stock symbol and date) again, a notification message will appear indicating that the data is already fetched.
 5. The fetched trade statistics will be displayed in a table format below the form, showing the Open, High, Low, Close, and Volume values.
