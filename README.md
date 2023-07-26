@@ -8,7 +8,6 @@ A web application to display trade statistics (Open, High, Low, Close, Volume) o
 - Real-time API calls to Polygon API to fetch the trade statistics for the given stock and date.
 - Display of trade statistics (Open, High, Low, Close, Volume) in a table format for easy readability.
 - Validation to prevent fetching the same data again if the stock symbol and date are the same as the previous query.
-- Notification message to inform the user that the data is already fetched when trying to fetch the same data again.
 - Use of local storage to store the fetched trade data for faster retrieval in case the same data is requested again.
 
 ## Setup Instructions
